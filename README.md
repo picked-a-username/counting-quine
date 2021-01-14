@@ -1,2 +1,3 @@
 # oneliner-quine
-One-liner Counting Quine in Python 
+
+A Python One-liner Counting Quine that prints its own source code
