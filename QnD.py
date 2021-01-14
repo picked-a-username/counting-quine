@@ -1,0 +1,1 @@
+import time;exec("""while True:\ttime.sleep(1);print('\\n'*100);exec('''def draw(l):\tl=(l%10)+1;return('_'*(l-1)+'/'+'-'*(10-l))''');f=open(__file__,'r').read();cf=open(__file__,'w');n=int(f[-12]); n=n if n < 9 else 0;cf.write(f[:-12]+str(n+1)+draw(n)+'\\n');cf.close();print(open(__file__, 'r').read())""")#1/---------
